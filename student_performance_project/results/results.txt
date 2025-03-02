@@ -1,0 +1,17 @@
+ Descriptive Statistics:
+       math score  reading score  writing score
+count  988.000000     988.000000     988.000000
+mean    66.625506      69.640688      68.566802
+std     14.409394      14.016760      14.525267
+min     27.000000      29.000000      27.000000
+25%     57.000000      60.000000      58.000000
+50%     66.000000      70.000000      69.000000
+75%     77.000000      80.000000      79.000000
+max    100.000000     100.000000     100.000000
+One-Way ANOVA: Math Score by Parental Education Level
+
+F-statistic: 5.810139414043858
+P-value: 2.687769229388141e-05
+
+Interpretation:
+There is a statistically significant difference in math scores across parental education levels.
