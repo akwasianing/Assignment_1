@@ -1,1 +1,1 @@
-You can view the text file that explains how each kind analysis has become easier with each of the visualizations here ()
+You can view the text file that explains how each kind analysis has become easier with each of the visualizations here ( https://github.com/akwasianing/Assignment_1/blob/main/explanation%20of%20visualization.txt )
