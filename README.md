@@ -1,1 +1,1 @@
-[explanation of visualization.txt](https://github.com/user-attachments/files/19047909/explanation.of.visualization.txt)
+You can view the text file that explains how each kind analysis has become easier with each of the visualizations here ()
